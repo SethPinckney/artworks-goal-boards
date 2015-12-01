@@ -281,7 +281,7 @@ img {
 @media screen and (max-width:1000px) {
   
   body {
-    background-color:#FF1493;
+    background-color:#FFF;
   }
   
   .item {
@@ -310,7 +310,7 @@ img {
 @media screen and (max-width:400px) {
   
   body {
-    background-color:#ded;
+    background-color:#FFF;
   }
   
   .item {
@@ -340,7 +340,7 @@ img {
   width:25%;
   float:left;
   padding:.5em;
-  border:1px dotted #A5A5A5;
+  border:1px dotted #999999;
   /*background-color:#fff;*/
 }
 
@@ -385,7 +385,7 @@ img {
 @media screen and (max-width:400px) {
   
   body {
-    background-color:#ded;
+    background-color:#FFF;
   }
   
   .item {
